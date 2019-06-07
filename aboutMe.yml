@@ -1,6 +1,6 @@
-name: Your Name
-studentNumber: z1234567
-officialEmail: noIdea@unsw.edu.au
-contactEmail:
-  firstBit: firstName.Lastname  # this avoids spam, the @ is implied
-  otherBit: whereIwork.com
+name: Hae-Lim Yoo
+studentNumber: z5062403
+officialEmail: z5062403@ad.unsw.edu.au
+contactEmail: 
+  firstBit: haelim.yoo  # this avoids spam, the @ is implied
+  otherBit: gmail.com
